@@ -1,7 +1,7 @@
 {
   "name": "Equitazione Official Token List",
-  "logoURI": "https://raw.githubusercontent.com/equitazione/equitazione/refs/heads/main/logo.PNG",
-  "timestamp": "2025-11-06T00:00:00Z",
+  "logoURI": "https://raw.githubusercontent.com/equitazione/equitazione/main/logo.PNG",
+  "timestamp": "2025-11-06T14:28:00Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -25,7 +25,7 @@
       "name": "Equitazione",
       "symbol": "EQN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/equitazione/equitazione-token/main/logo_512x512.png",
+      "logoURI": "https://raw.githubusercontent.com/equitazione/equitazione/main/logo_512x512.PNG",
       "tags": ["official"]
     }
   ],
