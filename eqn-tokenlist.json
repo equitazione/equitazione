@@ -1,6 +1,6 @@
 {
   "name": "Equitazione Official Token List",
-  "logoURI": "https://raw.githubusercontent.com/<username>/equitazione-token/main/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/equitazione/equitazione/refs/heads/main/logo.PNG",
   "timestamp": "2025-11-06T00:00:00Z",
   "version": {
     "major": 1,
@@ -30,6 +30,6 @@
     }
   ],
   "social": {
-    "x": "https://x.com/Equitazione"
+    "x": "https://x.com/equitazione_id"
   }
 }
