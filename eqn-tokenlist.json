@@ -1,1 +1,35 @@
-
+{
+  "name": "Equitazione Official Token List",
+  "logoURI": "https://raw.githubusercontent.com/<username>/equitazione-token/main/logo.png",
+  "timestamp": "2025-11-06T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "community": {
+      "name": "Community Token",
+      "description": "Tokens developed and maintained by the Equitazione project community."
+    },
+    "official": {
+      "name": "Official Token",
+      "description": "Verified official token of Equitazione."
+    }
+  },
+  "keywords": ["equitazione", "EQN", "base", "crypto", "erc20", "official"],
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x3CF7A9D4378B6BC43D59D8B35FFBC0A47C30AE61",
+      "name": "Equitazione",
+      "symbol": "EQN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/equitazione/equitazione-token/main/logo_512x512.png",
+      "tags": ["official"]
+    }
+  ],
+  "social": {
+    "x": "https://x.com/Equitazione"
+  }
+}
